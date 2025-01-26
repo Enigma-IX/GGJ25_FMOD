@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{0f247fbd-0c0d-4693-8671-943d4dd7bbac}">
+		<property name="assetPath">
+			<value>GGJ 2025 - Game track - Kick.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>8</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{7ebdc06c-8343-4ac4-8702-dcaa73e014b9}</destination>
+		</relationship>
+	</object>
+</objects>

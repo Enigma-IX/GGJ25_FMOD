@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{b8029a90-9d9b-4d5f-bafd-17080ac91f84}">
+		<property name="name">
+			<value>Bubble_minigame</value>
+		</property>
+		<relationship name="folder">
+			<destination>{2c39f9f1-4853-437a-888b-8cb5b64af006}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{918f8d1f-2745-4426-b0be-54abf825cbe0}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{918f8d1f-2745-4426-b0be-54abf825cbe0}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>Off</value>
+			<value>On</value>
+		</property>
+		<property name="isGlobal">
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>
